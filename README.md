@@ -16,6 +16,8 @@ java -cp Connection-1.0.0-jar-with-dependencies.jar com.ikas.cmd.Connected citie
 ```
 Or import the project into Eclipse and run in using the IDE.
   
+## Binary distribution
+All the jar files can be found in the dist folder.
   
 Internet References:
 - https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
