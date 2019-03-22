@@ -10,7 +10,7 @@
   using a Queue.
 
 ## How to run
-Here is an sample command to run the program:
+Here is a sample command to run the program:
 ```
 java -cp Connection-1.0.0-jar-with-dependencies.jar com.ikas.cmd.Connected cities.txt Boston Ypsilanti
 ```
